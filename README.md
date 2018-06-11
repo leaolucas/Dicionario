@@ -57,4 +57,6 @@ as classes que realmente precisam e os atributos são privados.
 - Variação protegida: Não houve necessidade de implementação
 - Polimorfismo: Não houve necessidade de implementação
 7. Diagrama de casos de uso
+
+
  ![casodeuso](https://user-images.githubusercontent.com/40123806/41257703-3b16da1e-6da4-11e8-997c-999005cc0954.jpg)
