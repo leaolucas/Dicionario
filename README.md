@@ -24,6 +24,7 @@ consultas
 ![classes](https://user-images.githubusercontent.com/40123806/41257632-e8218336-6da3-11e8-8b20-18029605893b.png)
 5. Diagrama de pacotes que apresente as diferentes camadas e as classes que
 fazem parte de cada camada
+![pacotes](https://user-images.githubusercontent.com/40123806/41257661-1004a306-6da4-11e8-8b08-4d677eb80c83.jpg)
 6. Padrões GRASP ( General Responsability Assignment Software Patterns ).
 Anotar quais foram usados e como foram aplicados.
 - Invenção pura: utilização de Persistência na camada de Serviços
