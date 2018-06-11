@@ -21,6 +21,7 @@ consultas
 - A aplicação deve aplicar o princípio de separação modelo-visão
 - A aplicação deve ser implementada em Java
 4. Diagrama de classes com uma perspectiva de implementação
+![classes](https://user-images.githubusercontent.com/40123806/41257632-e8218336-6da3-11e8-8b20-18029605893b.png)
 5. Diagrama de pacotes que apresente as diferentes camadas e as classes que
 fazem parte de cada camada
 6. Padrões GRASP ( General Responsability Assignment Software Patterns ).
